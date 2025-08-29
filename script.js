@@ -3,7 +3,7 @@ let hideTimeout;
 
 // *** สำคัญมาก: เปลี่ยน 'your-unique-topic-name-12345' เป็นชื่อเฉพาะของคุณ ***
 // *** แนะนำให้ใช้ชื่อที่เดายาก เช่น sign-translator-ตามด้วยชื่อช่องของคุณ-และเลขสุ่ม ***
-const NTFY_TOPIC = 'sign-to-talk-jump-th-hacks';
+const NTFY_TOPIC = 'jump-th-hacks-2025';
 
 function showText(message) {
     if (message) {
@@ -36,4 +36,5 @@ function subscribeToUpdates() {
 }
 
 // เริ่มการเชื่อมต่อ
+
 subscribeToUpdates();
